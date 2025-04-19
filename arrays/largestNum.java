@@ -1,5 +1,4 @@
-package arrays;
-import java.util.*;
+// package arrays;
 
 public class largestNum {
     public static int getLargest(int number[]){
